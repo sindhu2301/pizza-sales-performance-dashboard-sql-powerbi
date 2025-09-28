@@ -29,3 +29,15 @@ I connected Power BI to the SQL Server database and imported the pizza sales dat
 ## DAX Measures & Calculated Columns for KPI Analysis
 
 Based on the KPI requirements, I created DAX measures and calculated columns. I extracted the day name and month name from the date field, and then used the LEFT function to display only the first three letters (e.g., 'Mon', 'Jan') for cleaner visuals. 
+
+## Conclusion 
+
+The Pizza Sales Performance Dashboard project successfully demonstrates how data can be transformed into actionable business insights using SQL for backend data handling and Power BI for interactive visualizations.
+
+By leveraging SQL, I efficiently created the database, imported and cleaned the pizza sales dataset, and wrote queries to extract relevant metrics. Then, using Power BI, I performed further data transformation, created calculated columns and DAX measures, and developed a visually compelling dashboard that highlights key performance indicators (KPIs) such as total revenue, sales trends, popular pizza sizes, and sales distribution by day and month.
+
+This project helped improve data-driven decision-making by identifying high-performing products, peak sales periods, and opportunities for business growth. Overall, it showcases my ability to integrate database management with business intelligence tools to deliver end-to-end data solutions.
+
+## Pizza Sales Performance Reports
+<img width="1487" height="803" alt="Pizza sales reports" src="https://github.com/user-attachments/assets/5978ccb0-d082-444a-a906-59d05988f567" />
+<img width="1482" height="804" alt="pizzas sales report 2" src="https://github.com/user-attachments/assets/0cd8b153-066d-4b89-9313-542e5d53875a" />
